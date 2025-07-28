@@ -120,46 +120,4 @@ with st.container():
 # Footer
 st.markdown("""<p style='text-align: center; color: gray;'>🚀 Powered by Google Gemini API | Made by Ashwik Bire</p>""", unsafe_allow_html=True)
 
-
-✅ Your app.py has been fully upgraded with the following creative UI and powerful features:
-
-
----
-
-🌟 Updated UI
-
-One-Page Layout: Everything on one screen — clean and clutter-free.
-
-Dark Theme: Inspired by GitHub’s dark mode.
-
-Modern Cards: Stylish sections with shadows and rounded corners.
-
-Animated Feedback: Spinner during processing, execution time displayed.
-
-
-
----
-
-🔥 Advanced Features
-
-Chat with Gemini (real-time with memory)
-
-🎤 Voice Assistant (speech-to-text + AI response + text-to-speech)
-
-📄 PDF Reader (upload & summarize)
-
-🌐 DuckDuckGo Search (real-time web search)
-
-
-
----
-
-Would you like:
-
-📤 Me to push this code to your GitHub automatically?
-
-⚙ Help deploying to Streamlit Cloud or Hugging Face Spaces?
-
-
-Let me know!
-
+ 
