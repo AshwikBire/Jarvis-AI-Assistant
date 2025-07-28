@@ -4,6 +4,10 @@ from voice import listen_command, speak_response
 from pdf_reader import read_pdf_text
 from search_web import search_duckduckgo
 
+import time
+import requests
+import json
+
 import os
 from dotenv import load_dotenv
 
