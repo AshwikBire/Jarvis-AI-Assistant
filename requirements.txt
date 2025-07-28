@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+pyttsx3
+speechrecognition
+pdfplumber
+duckduckgo-search
