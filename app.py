@@ -63,7 +63,7 @@ with st.container():
         if user_input:
             with st.spinner("Jarvis is processing..."):
                 start = time.time()
-                reply = gemini_chat(user_input, GEMINI_API_KEY)
+                reply = gemini_chat(user_input, AIzaSyC48094RjAvbcPdUfLdltouGvP7LB6cHwk)
                 end = time.time()
                 st.session_state.chat_history = st.session_state.get("chat_history", [])
                 st.session_state.chat_history.append((user_input, reply))
