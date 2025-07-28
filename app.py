@@ -12,7 +12,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-GEMINI_API_KEY = os.getenv("AIzaSyC48094RjAvbcPdUfLdltouGvP7LB6cHwk")
+GEMINI_API_KEY = os.getenv(AIzaSyC48094RjAvbcPdUfLdltouGvP7LB6cHwk)
 
 st.set_page_config(page_title="Jarvis AI", layout="wide", page_icon="🤖")
 
