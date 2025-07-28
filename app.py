@@ -1,8 +1,9 @@
 import streamlit as st
-from modules.chat import gemini_chat
-from modules.voice import listen_command, speak_response
-from modules.pdf_reader import read_pdf_text
-from modules.search_web import search_duckduckgo
+from chat import gemini_chat
+from voice import listen_command, speak_response
+from pdf_reader import read_pdf_text
+from search_web import search_duckduckgo
+
 import os
 from dotenv import load_dotenv
 
