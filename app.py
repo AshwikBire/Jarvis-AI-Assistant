@@ -13,6 +13,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 GEMINI_API_KEY = os.getenv("AIzaSyC48094RjAvbcPdUfLdltouGvP7LB6cHwk")
+reply = gemini_chat(user_input, "AIzaSyC48094RjAvbcPdUfLdltouGvP7LB6cHwk")
 
 st.set_page_config(page_title="Jarvis AI", layout="wide", page_icon="🤖")
 
